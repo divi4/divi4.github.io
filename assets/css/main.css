@@ -1099,6 +1099,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			.img-two {
+				display: none;
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1344,6 +1348,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+			.img-two {
+				display: none;
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1588,6 +1596,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
+
+			.img-two {
+				display: none;
+			}
 
 			.row {
 				display: flex;
