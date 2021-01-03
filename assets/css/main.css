@@ -364,6 +364,10 @@ input, select, textarea {
 		opacity: 1;
 	}
 
+	.remove-margin {
+		margin-bottom: 0.6em;
+	}
+
 /* Row */
 
 	.row {
@@ -3747,7 +3751,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			width: 100%;
-			margin: 2.5em 0 2em 0;
+			margin-top: 0.2em;
 			font-size: 0.8em;
 			text-align: center;
 		}
