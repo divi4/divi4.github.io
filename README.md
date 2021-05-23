@@ -3,7 +3,7 @@ The code for my portfolio site that showcases my projects.
 
 **Link to project:** https://divi4.github.io/
 
-![alt tag](https://ibb.co/kxRXsdP)
+![alt tag](https://i.ibb.co/0cgrRwz/Screenshot-2021-05-24-Freelancer-for-Hire-Hire-Freelance-Web-Developer-David-Martin.png)
 
 ## How It's Made:
 
