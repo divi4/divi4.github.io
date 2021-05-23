@@ -1,26 +1,38 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My portfolio project
+The code for my portfolio site that showcases my projects.
 
+**Link to project:** https://divi4.github.io/
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+![alt tag](https://ibb.co/kxRXsdP)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## How It's Made:
 
-(* = not included)
+**Tech used:** HTML, CSS, JavaScript, SCSS
 
-AJ
-aj@lkn.io | @ajlkn
+Using the Stellar template from HTML5UP I wrote up the content and repurposed the features section to be used to showcase my other projects.
+I also altered the Javascript code to allow for smooth scrolling for all buttons on the site that are linked to anchors.
+
+## Plan to add
+
+* Link inquiry buttons to form on the site using express.js routing
+* Add more projects behind a 'show more' button
+* Refactor the code and measure time saved on loading
+
+## Lessons Learned:
+
+I learnt how to make smooth scrolling work and learnt the basics of jquery syntax during it. I also learnt how to effectively reuse code to save time and reduce bugs.
+
+## My other projects:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Afterlife:** https://github.com/divi4/afterlife
+
+**Restaurant Demo:** https://github.com/divi4/demo-restaurant
+
+**Source (Mobile-first responsive website):** https://github.com/divi4/source
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
