@@ -32,7 +32,7 @@ Take a look at these couple examples that I have in my own portfolio:
 **Source (Mobile-first responsive website):** https://github.com/divi4/source
 
 
-Credits:
+## Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
